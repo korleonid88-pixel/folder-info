@@ -1,3 +1,1 @@
-Folder Info CLI tool
-
-Project URL: https://github.com/korleonid88-pixel/folder-info
+https://roadmap.sh/projects/nodejs-folder-info
